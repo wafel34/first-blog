@@ -4,9 +4,7 @@ date: 2018-03-21T12:38:15Z
 draft: true
 author: "Admin"
 comments: true
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
-weight: 10
+thumbnail: '/img/lorem.png'
 categories:
     - general
     - examples

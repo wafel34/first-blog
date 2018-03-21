@@ -1,9 +1,10 @@
-baseURL = "http://wafel34.github.io/basic-blog/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Example Hugo Blog"
 theme = "mainroad"
 paginate = "10"
 disqusShortname = "@disqus_SAFs3Hx0uL"
+publishDir = "docs"
 
 
 [Author] # Used in authorbox
@@ -38,3 +39,25 @@ disqusShortname = "@disqus_SAFs3Hx0uL"
     social_github = "username"
     social_email = "example@example.com"
     social_google_plus = "profileid"
+
+
+[[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/about"
+
+[[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -120
+    identifier = "home"
+    url = "/"
+
+[[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -100
+    identifier = "contact"
+    url = "/contact"

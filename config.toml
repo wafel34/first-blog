@@ -1,4 +1,4 @@
-baseURL = "http://wafel34.github.io/first-blog"
+baseURL = "https://wafel34.github.io/first-blog/"
 languageCode = "en-us"
 title = "Example Hugo Blog"
 theme = "mainroad"

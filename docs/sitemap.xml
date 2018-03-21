@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/this-can-be-your-blog/</loc>
+    <loc>https://wafel34.github.io/first-blog/post/this-can-be-your-blog/</loc>
     <lastmod>2018-03-21T19:53:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hugo-is-simple/</loc>
+    <loc>https://wafel34.github.io/first-blog/post/hugo-is-simple/</loc>
     <lastmod>2018-03-21T19:47:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://wafel34.github.io/first-blog/about/</loc>
     <lastmod>2018-03-21T12:42:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://wafel34.github.io/first-blog/contact/</loc>
     <lastmod>2018-03-21T12:42:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://wafel34.github.io/first-blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://wafel34.github.io/first-blog/</loc>
     <lastmod>2018-03-21T19:53:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/general/</loc>
+    <loc>https://wafel34.github.io/first-blog/categories/general/</loc>
     <lastmod>2018-03-21T19:53:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://wafel34.github.io/first-blog/post/</loc>
     <lastmod>2018-03-21T19:53:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://wafel34.github.io/first-blog/tags/</loc>
     <priority>0</priority>
   </url>
   

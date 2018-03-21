@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Example Hugo Blog</title>
-    <link>/categories/</link>
+    <link>https://wafel34.github.io/first-blog/categories/</link>
     <description>Recent content in Categories on Example Hugo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wafel34.github.io/first-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>General</title>
-      <link>/categories/general/</link>
+      <link>https://wafel34.github.io/first-blog/categories/general/</link>
       <pubDate>Wed, 21 Mar 2018 19:53:25 +0000</pubDate>
       
-      <guid>/categories/general/</guid>
+      <guid>https://wafel34.github.io/first-blog/categories/general/</guid>
       <description></description>
     </item>
     

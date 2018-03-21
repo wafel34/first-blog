@@ -1,7 +1,6 @@
 ---
 title: "First Post"
 date: 2018-03-21T12:38:15Z
-draft: true
 author: "Admin"
 comments: true
 thumbnail: '/img/lorem.png'

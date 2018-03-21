@@ -37,5 +37,14 @@ similarities in go templates.&lt;/p&gt;
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
+    <item>
+      <title>First Post</title>
+      <link>https://wafel34.github.io/first-blog/post/first-post/</link>
+      <pubDate>Wed, 21 Mar 2018 12:38:15 +0000</pubDate>
+      
+      <guid>https://wafel34.github.io/first-blog/post/first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu tincidunt lorem, id interdum est. Nullam mauris nulla, ultricies non tellus vel, condimentum tempor eros. Integer dui risus, viverra et metus luctus, finibus ullamcorper lectus. Donec tempus pulvinar augue. Suspendisse accumsan tortor metus. Cras ac eros odio. Nullam porta finibus turpis vel tincidunt. Sed condimentum tellus nunc, ac auctor nisi egestas sed. Sed finibus, diam ac ultrices commodo, massa dui porttitor odio, eget tristique leo nunc nec libero.</description>
+    </item>
+    
   </channel>
 </rss>
